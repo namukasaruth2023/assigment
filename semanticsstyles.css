@@ -1,0 +1,43 @@
+header{
+    background-color: aqua;
+}
+
+main{
+    background-color: blueviolet;
+    width: 50%;
+    height: 90%;
+    
+}
+aside{
+
+    background-color: yellow;
+    width: 60%;
+    height: 800px;
+    float: right;
+    clear:both;
+   c
+}
+footer{
+    background-color: blue;
+    clear: both;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: aqua;
+}
+nav ul li a:hover{
+    background-color: brown;
+    color: aqua;
+}
+
+
+
+
+    
+
